@@ -1,0 +1,27 @@
+*{
+    background-color: #2c2c2c;
+    color: whitesmoke;
+}
+
+h1{
+    color: cyan
+}
+
+h2{
+    color: lightgreen;
+}
+p{
+    color: lightgrey;
+}
+
+ul{
+    color: #66ff66;
+}
+
+a{
+    color: cyan;
+}
+
+img{
+    width: 400px;
+}
